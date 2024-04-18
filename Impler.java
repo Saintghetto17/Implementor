@@ -1,5 +1,3 @@
-package info.kgeorgiy.java.advanced.implementor;
-
 import java.net.MalformedURLException;
 import java.nio.file.Path;
 
