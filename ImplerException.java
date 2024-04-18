@@ -1,5 +1,3 @@
-package info.kgeorgiy.java.advanced.implementor;
-
 /**
  * Thrown by {@link Impler} when an error occurred.
  *
