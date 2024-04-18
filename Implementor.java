@@ -1,9 +1,3 @@
-package info.kgeorgiy.ja.novitskii.implementor;
-
-import info.kgeorgiy.java.advanced.implementor.Impler;
-import info.kgeorgiy.java.advanced.implementor.ImplerException;
-import info.kgeorgiy.java.advanced.implementor.JarImpler;
-
 import javax.tools.JavaCompiler;
 import javax.tools.ToolProvider;
 import java.io.*;
